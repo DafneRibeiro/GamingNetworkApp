@@ -14,7 +14,12 @@ NLW eSports By RocketSeat
 
 This project is a Lab project developed by RocketSeat with the purpose of studying and practicing your skills with the tutors.
 
+To run it:
+---
 
+- `cd` on server folder 
+- open a terminal and use `npm run dev`
+- 
 
 ## Tech Stack 
 
@@ -22,3 +27,37 @@ This project is a Lab project developed by RocketSeat with the purpose of studyi
 * NodeJs
 * ExpressJs
 * ReactNative
+* Hopscotch 
+* 
+
+Backend (planning)
+
+## Game
+
+id 
+title
+bannerUrl
+
+## Ad
+
+id
+gameId
+name
+yearsPlaying
+discord
+weekDays
+hourStart
+hourEnd
+useVoiceChannel
+createdAt
+
+## User stories
+
+* Be able to see a list of games with the count of ads on it
+* Be able to create an ad to find a duo
+* List of ads for each game
+* Search discord via ads id
+* Only show discord tag once you click connect
+  
+
+
