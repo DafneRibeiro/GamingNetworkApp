@@ -64,4 +64,33 @@ createdAt
 
 I used prisma and create tables on schema.prisma. 
 
-Done that the structure for the Database was created and I could start using it
+Done that the structure for the Database was created and I could start using it.
+
+## 15/10/2022
+
+Using prisma studio I created the games, and copied the banner for each game using Twitch.
+
+Install @prisma/client. And started accessing the database using it.
+
+using prisma studio simulated a create ad, for a game, and using... 
+
+```
+const games = await prisma.game.findMany({
+    include: {
+      _count: {
+        select: {
+          ads:
+            true,
+        }
+      }
+    }
+  })
+  ```
+... inside server.ts to display the amount of ads for each game listed.
+
+## 17/10/2022
+
+Continued working on the backend, fixed a route error i was having and not being able to show the ads by gameId.
+
+Also worked on showing the discord id once selected.
+Learned how to use findUniqueandthrow(), in case it doesn't find what i am looking for it returns an error. 
