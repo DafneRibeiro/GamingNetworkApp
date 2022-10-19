@@ -94,3 +94,11 @@ Continued working on the backend, fixed a route error i was having and not being
 
 Also worked on showing the discord id once selected.
 Learned how to use findUniqueandthrow(), in case it doesn't find what i am looking for it returns an error. 
+
+## 18/10/2022
+
+Started working on some functions to convert time in the folder utils.
+Set up for cors, and prepare everything to connect the backend to the frontend.
+
+Had a minor problem because one of the functions wasn't working, after closing the server down and vscode, it worked again
+
