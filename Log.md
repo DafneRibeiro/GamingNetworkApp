@@ -102,3 +102,6 @@ Set up for cors, and prepare everything to connect the backend to the frontend.
 
 Had a minor problem because one of the functions wasn't working, after closing the server down and vscode, it worked again
 
+Connected the frontend with my Backend, as Twitch API was getting really complicated to access, i used my own API of games i created, and used fetch and map in my component to display the games.
+
+created a few components for the frontend
