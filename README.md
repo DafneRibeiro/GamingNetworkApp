@@ -19,7 +19,7 @@ To run it:
 
 - `cd` on server folder 
 - open a terminal and use `npm run dev`
-- 
+- run this command on web folder too.
 
 ## Tech Stack 
 

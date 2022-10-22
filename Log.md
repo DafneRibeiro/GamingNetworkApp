@@ -105,3 +105,28 @@ Had a minor problem because one of the functions wasn't working, after closing t
 Connected the frontend with my Backend, as Twitch API was getting really complicated to access, i used my own API of games i created, and used fetch and map in my component to display the games.
 
 created a few components for the frontend
+
+## 21/10/2022
+
+Tried to fix why my games don't display filling the whole space, spent a lot of time and hit a dead end, re-did the code, and couldn't figure it out. This happened after I mapped it.
+Didn't have much time to work on the project today.
+
+## 22/10/2020
+
+Again tried to fix the problem, still no solution, will look further into it, and move foward for now, as how it looks right now doesn't affect the whole project, only how it displays, more like a styling problem.
+
+To finish the front end, started working on a modal for when I click my button it will pop-up on the screen.
+
+Installed RADIX that supports modals but accessible and without styling so I can style as I wish.
+
+Using this documentation for the installation and use:
+
+https://www.radix-ui.com/docs/primitives/components/dialog
+
+To centralize it on my screen using tailwind I learning the following hacks:
+
+top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 (inside className)
+
+styled it using tailwind, and I just need to go back and make the day button work and Create Ad button send information to my API.
+
+
