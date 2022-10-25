@@ -1,7 +1,9 @@
 # GamingNetworkApp
-NLW eSports By RocketSeat 
+
+NLW eSports By RocketSeat
 
 ## Goals of the project
+
 ---
 
 * Practice ReactJS
@@ -11,30 +13,30 @@ NLW eSports By RocketSeat
 * Have my first contact with ReactNative
 * To learn and develop my backend skills and my web design skills
 
-
 This project is a Lab project developed by RocketSeat with the purpose of studying and practicing your skills with the tutors.
 
-To run it:
+## To run it
 ---
 
-- `cd` on server folder 
-- open a terminal and use `npm run dev`
-- run this command on web folder too.
+* `cd` on server folder
+* open a terminal and use `npm run dev`
+* run this command on web folder too.
 
-## Tech Stack 
+## Tech Stack
 
-* TypeScrypt with Tailwind
+* TypeScrypt
+* Tailwind
 * NodeJs
 * ExpressJs
 * ReactNative
-* Hopscotch 
-* 
+* Hopscotch
+* Figma for the design
 
 Backend (planning)
 
 ## Game
 
-id 
+id
 title
 bannerUrl
 
@@ -59,5 +61,3 @@ createdAt
 * Search discord via ads id
 * Only show discord tag once you click connect
   
-
-

@@ -129,4 +129,17 @@ top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 (inside className)
 
 styled it using tailwind, and I just need to go back and make the day button work and Create Ad button send information to my API.
 
+## 24/10/2022
+
+Linked the Mobile with my backend using my ip address using useEffect and useState, passed the interface and now my mobile app display all games and ads.
+
+Installed the library react navigation and dependencies from:
+https://reactnavigation.org/docs/getting-started/
+
+## 25/10/2022 
+
+Progress with Mobile, displayed the cards for the ads when you click on a game. Used methods to go back on the previous page, styled it better, and fixed a bit the bits that I had an error on yesterday.
+
+Left only a little to finish the mobile part.
+
 
