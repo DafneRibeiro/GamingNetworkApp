@@ -142,4 +142,20 @@ Progress with Mobile, displayed the cards for the ads when you click on a game. 
 
 Left only a little to finish the mobile part.
 
+On web, styled the buttons and toggle options, also the checkbox. Used map to display a selection of games on the form to choose from.
+
+Install Axios to improve fetching. 
+And now when I click on the button Find Duo on my modal, It creates the ad.
+I used the command npx prisma studio on my backend terminal to check if all details are correct when the form is submitted and it checks. All ads are created with success.
+
+## 26/10/2022
+FrontEnd
+
+Look into how to make my application better, for changes I can implement in the future when I have more experience on doing those, like Validations for the backend and the frontend form. Will also research on how can I use Twitch API for developers so My app could have a broader choice of games. And was thinking on adding a Slide for games as for now I only added 6 games, so when I add more games I could use Keen-slider library to make it look nicer when there are more games to choose from.
+
+Mobile
+
+
+
+
 
