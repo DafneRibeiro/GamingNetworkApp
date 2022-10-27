@@ -155,6 +155,27 @@ Look into how to make my application better, for changes I can implement in the 
 
 Mobile
 
+Create a Modal for when I click on connect it pops on the screen, styled it, and used a async function to fetch discord id when i click on the connect button to show discord id from the person that created the ad.
+
+Used the library 'Clipboard' to copy the discord name when the user clicks on it, so the person can copy and paste the discord id on discord to connect and play. I set an alert message for the user to know it was copied.
+
+Also worked on push notifications for this app using expo notifications. To do that I created a file for the notifications inside services, and set it up, then I imported this file in my app file. 
+
+To sent notification each device has a different indicator, I created another file on the services folder and used a async function like the documentation was showing to do, to get permissions if not granted. 
+
+
+
+# 27/10/2022
+
+Mobile
+
+Finished setting up notifications using a library called "expo modules core" and making the notifications work with the unique token for each device. I did the set up on the file App.tsx
+
+I used `expo.dev/notifications` to check if my notifications were working.
+
+
+
+For the future implementations for this app, I would like to look into notifications using expo notifications. implementing it on my backend, like for a specific game, if someone posts it and I normally play it I would get a notification, I don't know how to do it, but its something I would like to look into. But I found the documentation to do it, on `docs.expo.dev/push-notifications/sending-notifications/` using a post request on my backend. (read the HTTP/2 API)
 
 
 

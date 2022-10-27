@@ -1,6 +1,6 @@
 # GamingNetworkApp
 
-NLW eSports By RocketSeat
+NLW eSports a challenge by RocketSeat
 
 ## Goals of the project
 
@@ -35,11 +35,6 @@ This project is a Lab project developed by RocketSeat with the purpose of studyi
  * open a terminal on server folder
  * run `npx prisma studio` 
  * select Ad and check the ads created when you submit a form in the modal
-
-```Note: for this project I selected 6 games, will look into adding a slide and adding more games for the user to choose from. Would also like to look into how to use Twitch API for developers, as I can get a broader game option.
- 
-Probably I will use the library keen-slider for it as it is integrated with react.
-Will also look into doing validation with the library React Hook Form and use a schema validation for the frontEnd, and probably use zod for the validation on the backend.```
 
 
 ## Tech Stack
@@ -82,3 +77,14 @@ createdAt
 * Search discord via ads id
 * Only show discord tag once you click connect
   
+  ```
+  My take on this project: 
+  I touched for the first time React Native, I found it an amazing tool, and will definitely do more projects using it. You can do so much with it and I didn't imagine how many things there were available.
+
+  I also had my first go with TypeScript, I enjoyed it very much and its 100% sure going on my priority study list. 
+
+  For the backend as I wasn't much confident as I didn't work too much with it, I understood some things better and still want to learn more about.
+  
+  Note: for this project I selected 6 games, will look into adding a slide and adding more games for the user to choose from. 
+  Would also like to look into how to use Twitch API for developers, as I can get a broader game option.
+  Probably I will use the library keen-slider for it as it is integrated with react.Will also look into doing validation with the library React Hook Form and use a schema validation for the frontEnd, and probably use zod for the validation on the backend.
