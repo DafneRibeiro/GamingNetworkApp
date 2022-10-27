@@ -87,4 +87,6 @@ Backend (planning)
   
   Note: for this project I selected 6 games, will look into adding a slide and adding more games for the user to choose from. 
   Would also like to look into how to use Twitch API for developers, as I can get a broader game option.
-  Probably I will use the library keen-slider for it as it is integrated with react.Will also look into doing validation with the library React Hook Form and use a schema validation for the frontEnd, and probably use zod for the validation on the backend.
+  Probably I will use the library keen-slider for it as it is integrated with react.
+  Will also look into doing validation with the library React Hook Form and use a schema validation for the frontEnd, 
+  and probably use zod for the validation on the backend.
