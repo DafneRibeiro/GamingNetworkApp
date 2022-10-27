@@ -79,7 +79,8 @@ Backend (planning)
   
   ```
   My take on this project: 
-  I touched for the first time React Native, I found it an amazing tool, and will definitely do more projects using it. You can do so much with it and I didn't imagine how many things there were available.
+  I touched for the first time React Native, I found it an amazing tool, and will definitely do more projects using it. 
+  You can do so much with it and I didn't imagine how many things there were available.
 
   I also had my first go with TypeScript, I enjoyed it very much and its 100% sure going on my priority study list. 
 
